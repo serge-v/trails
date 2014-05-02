@@ -1,4 +1,4 @@
 trails
 ======
 
-Plotting Opensteetmap data on USGS maps.
+Plotting Openstreetmap data on USGS maps.

@@ -1,5 +1,5 @@
 all: \
-	makefile            \
+	Makefile            \
 	crop-area           \
 	get-osm-area        \
 	parse-osm           \
@@ -14,7 +14,7 @@ all: \
 # create local makefile for build directory
 
 Makefile:
-	[ ! -f ../trails-build/makefile ] && echo -e "include ../trails/makefile" > ../trails-build/makefile
+	[ ! -f ../trails-build/Makefile ] && echo -e "include ../trails/Makefile" > ../trails-build/Makefile
 
 # build programs
 

@@ -13,7 +13,9 @@
 #define __GETOPT_H__
 
 /* All the headers include this file. */
+#ifdef _WINDOWS
 #include <crtdefs.h>
+#endif
 
 #ifdef __cplusplus
 extern "C" {

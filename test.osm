@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="CGImap 0.1.0" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+ <bounds minlat="41.1250000" minlon="-74.2500000" maxlat="41.2500000" maxlon="-74.1250000"/>
+ <node id="2280288036" lat="41.1640370" lon="-74.1834381" user="RussNelson" uid="3962" visible="true" version="1" changeset="15856007" timestamp="2013-04-25T02:36:21Z"/>
+ <node id="261797346" lat="41.1641162" lon="-74.1833137" user="RussNelson" uid="3962" visible="true" version="4" changeset="15856007" timestamp="2013-04-25T02:36:36Z"/>
+ <node id="261788085" lat="41.1647034" lon="-74.1823737" user="woodpeck_fixbot" uid="147510" visible="true" version="3" changeset="3269425" timestamp="2009-12-02T04:55:45Z"/>
+ <node id="261803299" lat="41.1658987" lon="-74.1806657" user="woodpeck_fixbot" uid="147510" visible="true" version="3" changeset="3269425" timestamp="2009-12-02T05:00:42Z"/>
+ <node id="1700209201" lat="41.1661550" lon="-74.1803256" user="RussNelson" uid="3962" visible="true" version="2" changeset="15856007" timestamp="2013-04-25T02:36:35Z"/>
+ <node id="2280288039" lat="41.1662110" lon="-74.1802438" user="RussNelson" uid="3962" visible="true" version="1" changeset="15856007" timestamp="2013-04-25T02:36:21Z"/>
+ <way id="218817167" user="RussNelson" uid="3962" visible="true" version="1" changeset="15856007" timestamp="2013-04-25T02:36:28Z">
+  <nd ref="2280288036"/>
+  <nd ref="261797346"/>
+  <nd ref="261788085"/>
+  <nd ref="261803299"/>
+  <nd ref="1700209201"/>
+  <nd ref="2280288039"/>
+  <tag k="highway" v="footway"/>
+  <tag k="name" v="Seven Lakes Drive"/>
+  <tag k="tiger:cfcc" v="A41"/>
+  <tag k="tiger:county" v="Rockland, NY"/>
+  <tag k="tiger:name_base" v="Seven Lakes"/>
+  <tag k="tiger:name_type" v="Dr"/>
+  <tag k="tiger:reviewed" v="no"/>
+ </way>
+</osm>

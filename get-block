@@ -1,0 +1,5 @@
+#!/bin/bash
+
+[[ $3 == "" ]] && { echo USAGE get-block FILENAME OFFSET LENGTH ; exit 1; }
+
+dd if=$1 bs=1 skip=$2 count=$3 2>/dev/null
